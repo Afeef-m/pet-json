@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Afeef-m/pet-json#readme",
   "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json-server": "^0.17.4"
-  }
+  "json-server": "^0.17.0",
+  "cors": "^2.8.5"
+}
+
 }
